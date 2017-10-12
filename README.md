@@ -1,2 +1,0 @@
-# scilab
-only for scilab
