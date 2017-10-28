@@ -1,4 +1,4 @@
-//dz №7 завдання 5 (рівняння конгруентності)
+//dz №7 завдання 6 (рівняння конгруентності)
 //written by David Zashkolnyi, 1 course 
 //Taras Shevchenko National University of Kyiv
 //Faculty of Mechanics and Mathematics
