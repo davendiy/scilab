@@ -21,7 +21,7 @@ function v = subst(p, x)
 endfunction
 
 
-function root = RRoot(c)
+function root = rat_root(c)
     /*
     function that find rational roots
         
